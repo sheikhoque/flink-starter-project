@@ -1,0 +1,7 @@
+.idea
+.bsp
+logs
+target
+idea.sbt
+mainRunner
+

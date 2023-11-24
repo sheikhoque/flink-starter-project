@@ -1,0 +1,9 @@
+[
+  {
+    "PropertyGroupId": "StreamingJobAppProperty",
+    "PropertyMap": {
+      "applicationName": "sample-java-maven-aws-managed-flink-app",
+      "mathPowerInteger": "2"
+    }
+  }
+]
